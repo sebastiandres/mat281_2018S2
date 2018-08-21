@@ -3,6 +3,10 @@ UTFSM - 3 créditos.
 
 Los notebooks de este modulo funcionan con las siguientes librerias: [mat281_modulo1.yml](./mat281_modulo1.yml)
 
+```bash
+conda env create -f mat281_modulo1.yml
+```
+
 [Clase 01](./01_introduccion.ipynb)
 
 [Clase 02](./02.ipynb)
@@ -10,4 +14,3 @@ Los notebooks de este modulo funcionan con las siguientes librerias: [mat281_mod
 [Clase 03](./03.ipynb)
 
 [Clase 04](./04.ipynb)
-

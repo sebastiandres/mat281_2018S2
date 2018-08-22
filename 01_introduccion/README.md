@@ -1,5 +1,5 @@
-[![DMAT](./images/dmat.png?raw=true "DMAT")](http://www.mat.utfsm.cl/)
-[![UTFSM](./images/utfsm.png?raw=true "UTFSM")](http://www.usm.cl/)
+[![DMAT](../images/dmat.png?raw=true "DMAT")](http://www.mat.utfsm.cl/)
+[![UTFSM](../images/utfsm.png?raw=true "UTFSM")](http://www.usm.cl/)
 
 # MAT281 Aplicaciones de la Matematica en Ingenieria
 **Repositorio del módulo 1**

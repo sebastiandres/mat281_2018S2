@@ -1,13 +1,14 @@
 <header>
-<img src="./images/utfsm.png" alt="" height="100px" align="left"/>
-<img src="./images/dmat.png" alt="" height="100px" align="right"/>
+<img src="./images/shared/utfsm.png" alt="" height="100px" align="left"/>
+<img src="./images/shared/dmat.png" alt="" height="100px" align="right"/>
 </header>
 <br/><br/><br/><br/><br/>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería - Modulo 1
 
-**Docentes**: Sebastián Flores & Alonso Ogueda
-**Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
+* **Docentes**: Sebastián Flores & Alonso Ogueda
+
+* **Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
 
 ## Descripción del Módulo
 
@@ -15,13 +16,13 @@ Lore ipsum
 
 ## Contenido
 
-[Clase 01](./01_sobre_el_curso.ipynb)
+* [01 - Sobre el curso](./01_sobre_el_curso.ipynb) ¿Qué aprenderemos en el curso? ¿Cómo lo aprenderemos? ¿Porqué lo aprenderemos?
 
-[Clase 02](./02_data_science_toolkit.ipynb)
+* [02 - Setup inicial](./02_data_science_toolkit.ipynb) ¿Qué herramientas utilizaremos en el curso? Consejos de instalación de conda, jupyter notebook/lab, python y librerías.
 
-[Clase 03](./03.ipynb)
+* [03 - Consejos generales](./03_advice_for_life.ipynb)  ¿Cómo es trabajar en el "mundo real"™? Consejos para encontrar un buen trabajo/práctica y tener un correcto desempeño.
 
-[Clase 04](./04.ipynb)
+* [04 - Librerías de Python](./04_librerias_python.ipynb) Sesión hands-on sobre numpy y pandas.
 
 ## Sobre los notebooks
 

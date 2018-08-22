@@ -2,13 +2,16 @@
 <img src="./images/utfsm.png" alt="" height="100px" align="left"/>
 <img src="./images/dmat.png" alt="" height="100px" align="right"/>
 </header>
-<br/><br/><br/><br/><br/>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería - Modulo 1
 
-**Docentes**: Sebastián Flores & Alonso Ogueda
-**Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
-**Licencia**: [MIT](./LICENCE.md)
+* **Docentes**: [Sebastián Flores](https://www.linkedin.com/in/sebastiandres/) & [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
+
+* **Ayudantes**: [NN]()
+
+* **Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
+
+* **Licencia**: [MIT](./LICENCE.md)
 
 ## Planificación
 

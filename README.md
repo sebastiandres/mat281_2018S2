@@ -1,10 +1,14 @@
-[![DMAT](./images/dmat.png?raw=true "DMAT")](http://www.mat.utfsm.cl/) 
-[![UTFSM](./images/utfsm.png?raw=true "UTFSM")](http://www.usm.cl/)
+<header>
+<img src="./images/utfsm.png" alt="" height="100px" align="left"/>
+<img src="./images/dmat.png" alt="" height="100px" align="right"/>
+</header>
+<br/><br/><br/><br/><br/>
 
-# MAT281 Aplicaciones de la Matematica en Ingenieria
-**Repositorio oficial de contenido del curso.**
+# MAT281 - Aplicaciones de la Matemática en la Ingeniería - Modulo 1
 
-Licencia: [MIT](./LICENCE.md) 
+**Docentes**: Sebastián Flores & Alonso Ogueda
+**Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
+**Licencia**: [MIT](./LICENCE.md)
 
 ## Planificación
 
@@ -20,4 +24,3 @@ Licencia: [MIT](./LICENCE.md)
 
 ## Consejos
 ![HowToCode](https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg)
-

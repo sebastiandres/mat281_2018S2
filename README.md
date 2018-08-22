@@ -1,10 +1,10 @@
 <header>
-<img src="./images/utfsm.png" alt="" align="left"/>
-<img src="./images/dmat.png" alt="" align="right"/>
+<img src="./images/utfsm.png" alt="UTFSM" align="left"/>
+<img src="./images/dmat.png" alt="DMAT" align="right"/>
 </header>
 </br></br></br></br></br>
 
-# MAT281 - Aplicaciones de la Matemática en la Ingeniería - Modulo 1
+# MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 * **Docentes**: [Sebastián Flores](https://www.linkedin.com/in/sebastiandres/) & [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
 

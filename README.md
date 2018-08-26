@@ -23,7 +23,7 @@
 
   * **Clase 02** - 2018-09-07 [ [github](https://github.com/sebastiandres/mat281_m01_introduccion/blob/master/02_data_science_toolkit/02_data_science_toolkit.ipynb) | [binder](https://mybinder.org/v2/gh/sebastiandres/mat281_m01_introduccion/master?filepath=02_data_science_toolkit/02_data_science_toolkit.ipynb) | [colab](https://colab.research.google.com/github/sebastiandres/mat281_m01_introduccion/blob/master/02_data_science_toolkit/02_data_science_toolkit.ipynb) ]: *¿Qué herramientas utilizaremos en el curso? Consejos de instalación de conda, jupyter notebook/lab, python y librerías.*
 
-  * **Clase 03** - 2018-09-11 [ [github](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [binder](https://youtu.be/sTSA_sWGM44?list=PL8-WCDAlf0s1B2eimcB77pRtnys6QXpSK&t=75) | [colab](https://www.youtube.com/watch?v=Oj6pQGFRxZc) ] ¿Cómo es trabajar en el "mundo real"™? *Consejos para encontrar un buen trabajo/práctica y tener un correcto desempeño.*
+  * **Clase 03** - 2018-09-11 [ [github](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [binder](https://youtu.be/sTSA_sWGM44?list=PL8-WCDAlf0s1B2eimcB77pRtnys6QXpSK&t=75) | [colab](https://www.youtube.com/watch?v=Oj6pQGFRxZc) ] *¿Cómo es trabajar en el "mundo real"™? Consejos para encontrar y mantener un buen trabajo/práctica y sobrevivir en el intento.*
 
   * **Clase 04** - 2018-09-14 [ github | binder | colab ] *Sesión práctica sobre numpy y pandas.*
 

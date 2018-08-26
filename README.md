@@ -1,6 +1,6 @@
 <header>
-<img src="./shared/images/utfsm.png" alt="UTFSM" align="left"/>
-<img src="./shared/images/dmat.png" alt="DMAT" align="right"/>
+<img src="./images/utfsm.png" alt="UTFSM" align="left"/>
+<img src="./images/dmat.png" alt="DMAT" align="right"/>
 </header>
 </br></br></br></br></br>
 

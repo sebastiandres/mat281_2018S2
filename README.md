@@ -1,30 +1,39 @@
 <header>
-<img src="./images/utfsm.png" alt="UTFSM" align="left"/>
-<img src="./images/dmat.png" alt="DMAT" align="right"/>
+<img src="./shared/images/utfsm.png" alt="UTFSM" align="left"/>
+<img src="./shared/images/dmat.png" alt="DMAT" align="right"/>
 </header>
 </br></br></br></br></br>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
+## Módulo 01 - Introducción
 
 * **Docentes**: [Sebastián Flores](https://www.linkedin.com/in/sebastiandres/) & [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
 
 * **Ayudantes**: [NN]()
 
-* **Repositorio Código**: https://www.github.com/sebastiandres/mat281_2018S2
+* **Repositorio Código**: [Asignatura](https://www.github.com/sebastiandres/mat281_2018S2) y este [módulo](https://www.github.com/sebastiandres/mat281_m01_introduccion).
 
 * **Licencia**: [MIT](./LICENCE.md)
 
-## Planificación
+## Módulo 01 - Introducción
 
-* [Módulo 1](./01_introduccion/README.md) [**2 semanas**] Introducción: Planificación del curso, reglas, herramientas, setup, consejos y otros temas introductorios.
+* **Módulo 1** [2 semanas] Introducción: Planificación del curso, reglas, herramientas, setup, consejos y otros temas introductorios.
 
-* [Módulo 2](./02_analisis_de_datos/README.md) [**3 semanas**] Análisis de datos: Tipos de datos, obtención de datos, detección de errores, análisis.
+  * **Clase 01** - 2018-09-04 [[github](https://github.com/sebastiandres/mat281_m01_introduccion/blob/master/01_sobre_el_curso/01_sobre_el_curso.ipynb) | [binder](https://mybinder.org/v2/gh/sebastiandres/mat281_m01_introduccion/master?filepath=01_sobre_el_curso/01_sobre_el_curso.ipynb) | [colab](https://colab.research.google.com/github/sebastiandres/mat281_m01_introduccion/blob/master/01_sobre_el_curso/01_sobre_el_curso.ipynb) ]: ¿Qué aprenderemos en el curso? ¿Cómo lo aprenderemos? ¿Porqué lo aprenderemos?
 
-* [Módulo 3](./03_visualizacion/README.md) [**2 semanas**] Visualización: tipos de visualización, librerías más comunes, graficos dinámicos, etc.
+  * **Clase 02** - 2018-09-07 [[github](https://github.com/sebastiandres/mat281_m01_introduccion/blob/master/02_data_science_toolkit/02_data_science_toolkit.ipynb) | [binder](https://mybinder.org/v2/gh/sebastiandres/mat281_m01_introduccion/master?filepath=02_data_science_toolkit/02_data_science_toolkit.ipynb) | [colab](https://colab.research.google.com/github/sebastiandres/mat281_m01_introduccion/blob/master/02_data_science_toolkit/02_data_science_toolkit.ipynb) ]: ¿Qué herramientas utilizaremos en el curso? Consejos de instalación de conda, jupyter notebook/lab, python y librerías.
 
-* [Módulo 4](./04_machine_learning/README.md) [**4 semanas**] Machine Learning: Datasets, métricas, algoritmos de clasificación, clustering y regresión.  
+  * **Clase 03** - 2018-09-11 [ github | binder | colab ] ¿Cómo es trabajar en el "mundo real"™? Consejos para encontrar un buen trabajo/práctica y tener un correcto desempeño.
 
-* [Módulo 5](./05_proyectos/README.md) [**3 semanas**] Proyectos: Aplicaciones en proyectos diversos.
+  * **Clase 04** - 2018-09-14 [ github | binder | colab ] Sesión hands-on sobre numpy y pandas.
+
+* **Módulo 2** [3 semanas] Análisis de datos: Tipos de datos, obtención de datos, detección de errores, análisis.
+
+* **Módulo 3** [2 semanas] Visualización: tipos de visualización, librerías más comunes, graficos dinámicos, etc.
+
+* **Módulo 41** [4 semanas] Machine Learning: Datasets, métricas, algoritmos de clasificación, clustering y regresión.  
+
+* **Módulo 5** [3 semanas] Proyectos: Aplicaciones en proyectos diversos.
 
 ## Consejos
 ![HowToCode](https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg)

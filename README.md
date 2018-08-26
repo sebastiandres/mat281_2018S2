@@ -36,4 +36,4 @@
 * **Módulo 5** [3 semanas] Proyectos: Aplicaciones en proyectos diversos.
 
 ## Consejos
-![HowToCode](https://i.kym-cdn.com/entries/icons/original/000/023/987/overcome.jpg)
+[![HowToCode](./images/saint_curious_george.png)](https://abstrusegoose.com/353)

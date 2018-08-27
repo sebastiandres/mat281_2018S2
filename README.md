@@ -5,17 +5,16 @@
 </br></br></br></br></br>
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
-## Módulo 01 - Introducción
 
 * **Docentes**: [Sebastián Flores](https://www.linkedin.com/in/sebastiandres/) & [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
 
 * **Ayudantes**: [NN]()
 
-* **Repositorio Código**: [Asignatura](https://www.github.com/sebastiandres/mat281_2018S2) y este [módulo](https://www.github.com/sebastiandres/mat281_m01_introduccion).
+* **Repositorio Código**: [Asignatura](https://www.github.com/sebastiandres/mat281_2018S2)
 
 * **Licencia**: [MIT](./LICENCE.md)
 
-## Módulo 01 - Introducción
+## Planificación
 
 * **Módulo 1** [2 semanas] Introducción: Planificación del curso, reglas, herramientas, setup, consejos y otros temas introductorios.
 

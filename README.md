@@ -39,5 +39,7 @@
 
    * **Clase 04** - 2018-10-11 [ [github](https://github.com/sebastiandres/mat281_m02_analisis_de_datos/blob/master/04_obtencion_datos/04_obtencion_datos.ipynb) | [binder](https://mybinder.org/v2/gh/sebastiandres/mat281_m02_analisis_de_datos/master?filepath=04_obtencion_datos/04_obtencion_datos.ipynb) | [colab](https://colab.research.google.com/github/sebastiandres/mat281_m02_analisis_de_datos/blob/master/04_obtencion_datos/04_obtencion_datos.ipynb) ]: *Sobre formatos de archivos de datos y APIs.*
 
+   * **Clase 05** - 2018-10-16 [ [github](https://github.com/sebastiandres/mat281_m02_analisis_de_datos/blob/master/05_analisis_datos/05_analisis_datos.ipynb) | [binder](https://mybinder.org/v2/gh/sebastiandres/mat281_m02_analisis_de_datos/master?filepath=05_analisis_datos/05_analisis_datos.ipynb) | [colab](https://colab.research.google.com/github/sebastiandres/mat281_m02_analisis_de_datos/blob/master/05_analisis_datos/05_analisis_datos.ipynb) ]: *Consejos para análisis de datos.*
+   
 ## Consejos
 [![HowToCode](./images/saint_curious_george.png)](https://abstrusegoose.com/353)

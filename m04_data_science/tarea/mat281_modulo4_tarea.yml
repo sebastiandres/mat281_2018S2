@@ -1,0 +1,17 @@
+name: mat281_modulo4_tarea
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - altair
+  - jupyterlab
+  - matplotlib
+  - pandas
+  - pip
+  - python=3.6.6
+  - vega
+  - vega_datasets
+  - scikit-learn
+  - scipy
+  - ipywidgets
+  - nodejs

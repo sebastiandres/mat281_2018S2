@@ -6,7 +6,7 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebastiandres/mat281_2018S2/2018s2)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sebastiandres/mat281_2018S2/2018s2?urlpath=lab)
 
 * **Docentes**: [Sebastián Flores](https://www.linkedin.com/in/sebastiandres/) & [Alonso Ogueda](https://www.linkedin.com/in/aoguedaoliva/)
 

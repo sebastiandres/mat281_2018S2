@@ -1,0 +1,8 @@
+Field name,Field type,Field size,Range,Description,Example
+anio,Integer,15,2009 to 2017,Year of the spend,2009
+mes,String,10,12 categories,Month,enero
+partida,String,63,28 categories,Ministeries,Ministerio de Educación
+capitulo,String,78,219 categories,Public Services,Fondo Nacional de Salud
+programa,String,78,363 categories,Programs,Fondo Nacional de Salud
+subtitulo,String,37,10 categories,First level of the budget classification,TRANSFERENCIAS CORRIENTES
+monto,Integer,15,(-49702217) to 357607483,"Amount, this data was update by the inflation factors  and it's expressed in thousands of pesos ",357607483

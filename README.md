@@ -46,15 +46,15 @@
   * **Tarea 02**: *Evolución de medios de almacenamiento, Street Fighting Math meets Feynman y Análisis de Datos de otra dimensión.*
 
 
-  * **Módulo 3 - Visualización:** Teoría y herramientas útiles para la correcta exposición de datos y resultados.
+* **Módulo 3 - Visualización:** Teoría y herramientas útiles para la correcta exposición de datos y resultados.
 
-    * **Clase 11**: *Landscape. Panorama actual de las visualizaciones y por donde comenzar.*
+  * **Clase 11**: *Landscape. Panorama actual de las visualizaciones y por donde comenzar.*
 
-    * **Clase 12**: *Teoría. Una buena visualización dista de ser una tarea trivial.*
+  * **Clase 12**: *Teoría. Una buena visualización dista de ser una tarea trivial.*
 
-    * **Clase 13**: *Visualización Declarativa. Introducción a la librería Altair*
+  * **Clase 13**: *Visualización Declarativa. Introducción a la librería Altair*
 
-    * **Clase 14**: *Visualización para Bussines Intelligence. Una mirada a Power BI.*
+  * **Clase 14**: *Visualización para Bussines Intelligence. Una mirada a Power BI.*
 
 
 * **Módulo 4 - Data Science:** Obtener conocimiento a través de los datos, predecir valores. Darle valor a los datos.
@@ -76,7 +76,7 @@
     * **Tarea 03**: *Visualización y Machine Learning en el conjunto de datos Gapminder.*
 
 
-  * **Módulo 5 - Proyecto:** .
+* **Módulo 5 - Proyecto:** .
 
     * **Clase 22**: *Presentación del Proyecto*
 
